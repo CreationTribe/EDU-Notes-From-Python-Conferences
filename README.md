@@ -1,15 +1,11 @@
 # EDU-Notes-From-Python-Conferences
 
-## Images from Types and Metaclasses talk (types_and_metaclasses.ipynb)
-### Attribute Lookup from types_and_metaclasses.ipynb
+## The Best Reminder For Post Composition
+Thanks to Brandon Rhodes' talk, "The Antipodes" - PyCon AU 2019.
+After watching this talk: [The Antipodes - Brandon Rhodes](https://2019.pycon-au.org/talks/brandon)
+the only reminder you'll need is this:
+![Mnemonic Tweet](media/the_antipods.png "Effective Tweet composition steps all rolled up into one, comical, mnemonic device :)")
 
-![Attribute Lookup](media/attribute_lookup.png "Attribute Lookup")
-
-### Inheritance Model of Metaclasses
-![Metaclasses & Inheritance](media/metaclasses_and_inheritance.png 'Metaclasses & Inheritance')
-
-### Instance Attribute Lookup
-![Metaclasses & Inheritance](media/instances_attribute_lookup.png 'Metaclasses & Inheritance')
-
-### Instanception
-![Instanception](media/instanception.png 'Instanception')
+## KEY NOTES:
+ - always use FFI for encryption
+ - get used to building threat models 
