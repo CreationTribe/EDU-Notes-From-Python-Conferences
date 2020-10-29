@@ -1,0 +1,3 @@
+[submodule "svg_in_python"]
+	path = svg_in_python
+	url = git@github.com:hogesonline/svg_play.git
