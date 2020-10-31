@@ -7,5 +7,5 @@ the only reminder you'll need is this:
 ![Mnemonic Tweet](media/the_antipods.png "Effective Tweet composition steps all rolled up into one, comical, mnemonic device :)")
 
 ## KEY NOTES:
- - always use FFI for encryption
+ - always use FFIs (Foreign Function Interfaces) for encryption
  - get used to building threat models 
